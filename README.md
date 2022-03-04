@@ -59,7 +59,7 @@ Roberto Jiménez es un Lic. en derecho que actualmente tiene una concesionaria p
 
 Su meta más grande es posicionar a su concesionaria como una de las más reconocidas del país, brindando la ayuda de los mejores especialistas en cada caso.
 
-<img src="BuyerPersona/buyerpersona.jpg">
+<img src="Buyer Persona/buyerpersona.jpg">
 
 ## Público objetivo
 
